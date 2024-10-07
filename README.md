@@ -1,7 +1,3 @@
-Here’s a **README.md** file in GitHub markdown that explains the **Task Management App** project you’re working on. The README file provides details about the project’s purpose, features, installation instructions, and other useful information for someone viewing or using the project.
-
----
-
 # Task Management App
 
 A simple task management app built with **Vue.js 3** that allows users to create, manage, and filter tasks. This app also includes a **Dark Mode** feature that can be toggled by the user, with their preference stored locally.
