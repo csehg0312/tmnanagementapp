@@ -10,15 +10,7 @@ A simple task management app built with **Vue.js 3** that allows users to create
 - **Task Filtering**: Filter tasks by their completion status (All, Completed, Pending).
 - **Dark/Light Mode**: Users can toggle between dark and light modes. The selected mode will persist across page reloads.
 - **Local Storage**: All tasks and theme preferences are saved to the browser's local storage, ensuring data persists when the page is refreshed.
-
-## Screenshots
-
-### Light Mode:
-![Light Mode](path/to/light_mode_screenshot.png)
-
-### Dark Mode:
-![Dark Mode](path/to/dark_mode_screenshot.png)
-
+- 
 ## Technologies Used
 
 - **Vue.js 3**: A progressive JavaScript framework for building user interfaces.
@@ -48,16 +40,16 @@ A simple task management app built with **Vue.js 3** that allows users to create
 
 2. **Install dependencies**:
    ```bash
-   npm install
+   bun install
    ```
 
 3. **Run the development server**:
    ```bash
-   npm run serve
+   bun dev
    ```
 
 4. **Open in your browser**:
-   The app will be running on `http://localhost:8080`.
+   The app will be running on `http://localhost:5173`.
 
 ## Usage
 
@@ -74,11 +66,5 @@ A simple task management app built with **Vue.js 3** that allows users to create
 3. **Commit your changes** (`git commit -am 'Add new feature'`).
 4. **Push to the branch** (`git push origin feature-name`).
 5. **Open a pull request** to the `main` branch.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to use this as a foundation, and modify any part to fit your project! Be sure to update the repository link and paths for screenshots.
